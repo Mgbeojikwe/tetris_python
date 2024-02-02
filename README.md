@@ -4,7 +4,7 @@ N:B: This source code uses the raylib GUI,and  can run both on windows and linux
 
         $   sudo  python3  main.py
 
-  A video sample of the game is found at 
+  A video sample of the game is found at https://github.com/Mgbeojikwe/tetris_python/blob/main/tetris-2024-02-02_02.17.48.mp4 . download the video by clicking "view raw" 
 
 
 Source code Layout
